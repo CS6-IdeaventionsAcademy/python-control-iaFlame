@@ -33,7 +33,7 @@ else:
     time.sleep(0.4)
     print(".",end='')
     time.sleep(0.4)
-    print(".",end='')
+    print(".",end='')   
 
 
         
